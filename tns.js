@@ -1,4 +1,3 @@
  $(document).ready(function(){
-  console.log(".");
-  alert("df")
+  console.log("..");
  });
