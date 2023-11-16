@@ -1,1 +1,1 @@
- $(document).ready(function(){console.log("c")});
+ $(document).ready(function(){console.log(".")});
